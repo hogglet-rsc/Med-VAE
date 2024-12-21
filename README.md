@@ -1,2 +1,2 @@
 # Med-VAE
-Conditonal variational autoencoder for generation of synthetic tabular medical data.
+Conditional variational autoencoder for generation of synthetic tabular medical data.
